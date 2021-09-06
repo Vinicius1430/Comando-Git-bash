@@ -26,7 +26,7 @@ Quando um repositório é inicialmente clonado, todos os seus arquivos estarão 
 
 <p>Para passar a monitorar um novo arquivo, use o comando git add. Para monitorar o arquivo README, você pode rodar isso:</p>
 
-<p><p><p><li><strong>git add README</strong></li></p></p></p>
+<li><strong>git add README</strong></li>
 
 ======================================================================================================================================================================
 ======================================================================================================================================================================
